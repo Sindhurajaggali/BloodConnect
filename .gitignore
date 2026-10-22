@@ -1,0 +1,8 @@
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+bloodconnect.db
+.env
+.streamlit/secrets.toml
